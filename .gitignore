@@ -1,0 +1,5 @@
+.idea/
+node_modules
+build/
+go-bot/src/github.com
+*pkg/
